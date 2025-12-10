@@ -18,7 +18,7 @@ If you encounter any problem or find a bug during using, you are very welcome to
 
 
 
-If you encounter any problem or find a bug during using, you are very welcome to contact me by (1426299449@qq.com). If you use this code for your research, please cite our paper. Thanks!
+
 
 
 
